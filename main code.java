@@ -19,6 +19,8 @@ public class Main {
     System.out.println(myLetter);
     System.out.println(myBool);
     System.out.println(myText);
+        byte myNum = 100;
+    System.out.println(myNum);  
   }
   }
 }
